@@ -13,7 +13,7 @@
 - ⚡ check my website: https://souhil-omari.me
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Souhil19&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Souhil19&layout=compact)](https://github.com/Souhil19/github-readme-stats)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Souhil19&theme=dark)](https://git.io/streak-stats)
 
 
