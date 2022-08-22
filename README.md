@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently studying at ESI SBA 
-- 🌱 I’m currently learning Springboot ✨
+- 🌱 I’m currently learning MERN ✨
 - 👯 I’m looking to contribute to real software projects
 - 🤔 I’m looking for new opportunities ✨
 - 📫 How to reach me: s.omari@esi-sba.dz
@@ -14,5 +14,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Souhil19&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Souhil19&layout=compact)](https://github.com/Souhil19/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Souhil19&theme=dark)](https://git.io/streak-stats)
 
 
