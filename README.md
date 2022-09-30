@@ -12,6 +12,8 @@
 - 😄 thinker not feeler
 - ⚡ check my website: https://souhil-omari.me
 
+[![@souhil19's Holopin board](https://holopin.io/api/user/board?user=souhil19)](https://holopin.io/@souhil19)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Souhil19&show_icons=true&theme=default)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Souhil19&theme=dark)](https://git.io/streak-stats)
