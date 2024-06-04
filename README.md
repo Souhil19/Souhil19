@@ -4,13 +4,13 @@
 
 
 
-- 🔭 I’m currently studying at ESI SBA 
-- 🌱 I’m currently learning MERN ✨
+- 🔭 I’m currently studying at Sorbonne University 
+- 🌱 I’m currently learning PE
 - 👯 I’m looking to contribute to real software projects
 - 🤔 I’m looking for new opportunities ✨
 - 📫 How to reach me: s.omari@esi-sba.dz
 - 😄 thinker not feeler
-- ⚡ check my website: https://souhil-omari.me
+- ⚡ check my website: /
 
 [![@souhil19's Holopin board](https://holopin.io/api/user/board?user=souhil19)](https://holopin.io/@souhil19)
 
