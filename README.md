@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently studying at Sorbonne University 
-- 🌱 I’m currently learning PE
+- 🌱 I’m currently learning K8s
 - 👯 I’m looking to contribute to real software projects
 - 🤔 I’m looking for new opportunities ✨
 - 📫 How to reach me: s.omari@esi-sba.dz
